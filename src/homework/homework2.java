@@ -14,10 +14,10 @@ public class homework2 {
         int i2 = 0b0;
         int i3 = 00;
         int  i4 = 0x0;
-        long l1 = 123456789;
-        long l2 = 0b111010110111100110100010101;
-        long l3 = 0726746425;
-        long l4 = 0x75BCD15;
+        long l1 = 123456789L;
+        long l2 = 0b111010110111100110100010101L;
+        long l3 = 0726746425L;
+        long l4 = 0x75BCD15L;
         System.out.println(b1);
         System.out.println(b2);
         System.out.println(b3);
